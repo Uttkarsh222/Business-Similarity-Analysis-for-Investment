@@ -1,1 +1,45 @@
 .DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Python-related
+*.egg-info/
+.eggs/
+*.egg
+*.pyo
+*.coverage
+
+# Environment files
+.env
+.env.* 
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# System files
+Thumbs.db
+ehthumbs.db
+
+# IDE settings
+.idea/
+.vscode/
+
+# Streamlit generated files
+.streamlit/
+
+# Test outputs
+htmlcov/
